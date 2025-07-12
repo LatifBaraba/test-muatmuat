@@ -53,7 +53,7 @@ export default function Home() {
               stock={item.stock}
             />
           ))}
-        {!search.length &&
+        {search.length == 0 &&
           products?.map((item) => (
             <Card
               key={item.id}
