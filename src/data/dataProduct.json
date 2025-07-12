@@ -1,0 +1,51 @@
+[
+  {
+    "id": "e3c7269c-8b62-470b-a78a-080202bdb0d3",
+    "name": "Iphone 14",
+    "price": 2943,
+    "picture": "https://picsum.photos/200",
+    "stock": 170
+  },
+  {
+    "id": "7747e339-4d9e-4a56-a07c-e185d73d087e",
+    "name": "Samsung Galaxy S24",
+    "price": 3261,
+    "picture": "https://picsum.photos/200",
+    "stock": 871
+  },
+  {
+    "id": "b913db68-59d0-4493-8044-8bf727017e9e",
+    "name": "Iphone 14 Pro",
+    "price": 3810,
+    "picture": "https://picsum.photos/200",
+    "stock": 856
+  },
+  {
+    "id": "c88fbe05-60b1-4f9f-a384-228e0d116d13",
+    "name": "Samsung Galaxy A55",
+    "price": 2205,
+    "picture": "https://picsum.photos/200",
+    "stock": 357
+  },
+  {
+    "id": "35f614b4-04ec-41f0-9a70-fb20415daffe",
+    "name": "Xiaomi Poco F5",
+    "price": 2715,
+    "picture": "https://picsum.photos/200",
+    "stock": 135
+  },
+  {
+    "id": "190721cc-b310-4ba0-ac96-667252a0e74b",
+    "name": "Samsung Tablet S9",
+    "price": 1943,
+    "picture": "https://picsum.photos/200",
+    "stock": 836
+  },
+  {
+    "id": "04675d69-3738-43aa-a949-30dc145cb446",
+    "name": "Xiaomi Tablet Pad 7",
+    "price": 3523,
+    "picture": "https://picsum.photos/200",
+    "stock": 840
+  }
+]
